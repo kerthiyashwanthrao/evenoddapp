@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+.heading {
+  font-size: 25px;
+  font-weight: bold;
+  color: #0f172a;
+}
+.evenodd {
+  color: #334155;
+  font-size: 20px;
+}
+.btn {
+  color: #1e293b;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+.instruction {
+  color: #0f172a;
+  font-size: 10px;
+}
